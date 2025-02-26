@@ -1,0 +1,30 @@
+*{
+margin: 0;
+padding: 0;}
+
+.box{
+background-color: black;
+width: 1000px;
+height: 638px;
+text-align: center;
+margin: auto;
+border: 10px solid red;
+padding-top: 45px;
+padding-bottom: 45px;
+padding-left: 52px;
+padding-right: 52px;}
+
+p{
+background-color: aqua;
+width: 817px;
+margin: auto;
+padding-top: 54px;
+padding-bottom: 54px;
+padding-left: 40px;
+padding-right: 40px;
+font-size: 24px;
+font-weight: bold;}
+
+.p2{
+margin-top: 30px;
+}
